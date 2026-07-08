@@ -1,1 +1,1 @@
-[![alex-mcgovern's github stats](https://github-readme-stats.vercel.app/api?username=alex-mcgovern&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/alex-mcgovern)
+<img width="220" height="200" alt="dancing-baby" src="https://github.com/user-attachments/assets/9981d4eb-bdc3-4be7-b943-7078e59e574e" />
